@@ -1,0 +1,40 @@
+h1 {
+  color: red;
+}
+.padding {
+  margin-top: 100000px;
+}
+body {
+  background-image: url("https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt32fe6e0b6070053e/61b0b746aa6ca21f122cc7ec/goal---web-two-way-split--228ac02a-9765-412b-bc69-39d76ec8858c.jpeg?auto=webp&format=jpg&quality=100");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+table {
+  background-color: red;
+}
+
+#nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.nav1 {
+  float: left;
+}
+
+.nav1 a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav1 a:hover {
+  background-color: #111;
+}
